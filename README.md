@@ -47,4 +47,4 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-Nest is [MIT licensed](LICENSE).
+Nest is [MIT licensed](LICENSE)
